@@ -1,6 +1,6 @@
 # Fake Grab Mobile 🚀
 
-*You're viewing the new and updated version of Fake Grab Mobile, previous version can be found under the [v1 branch](https://github.com/YuddiPrase.git)*
+*You're viewing the new and updated version of Fake Grab Mobile (https://github.com/YuddiPrase/fake-grab.git)*
 
 
 <a href='https://play.google.com/store/apps/details?id=com.grab'><img width="200" alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png'/></a>
@@ -12,7 +12,7 @@
 
 ```bash
 # Clone the repo
-git clone https://github.com/YuddiPrase.git
+git clone https://github.com/YuddiPrase/fake-grab.git
 
 # Navigate to clonned folder and Install dependencies
 cd grab && yarn install
