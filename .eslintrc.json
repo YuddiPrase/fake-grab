@@ -1,0 +1,22 @@
+{
+    "env": {
+        "browser": true,
+        "es2019": true
+    },
+    "extends": [
+        "plugin:react/recommended",
+        "airbnb"
+    ],
+    "parserOptions": {
+        "ecmaFeatures": {
+            "jsx": false
+        },
+        "ecmaVersion": 10,
+        "sourceType": "module"
+    },
+    "plugins": [
+        "react"
+    ],
+    "rules": {
+    }
+}
